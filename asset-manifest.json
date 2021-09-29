@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FairSpeedType/static/css/main.de9d8e7b.chunk.css",
+    "main.js": "/FairSpeedType/static/js/main.9b968f66.chunk.js",
+    "main.js.map": "/FairSpeedType/static/js/main.9b968f66.chunk.js.map",
+    "runtime-main.js": "/FairSpeedType/static/js/runtime-main.b8ec3e50.js",
+    "runtime-main.js.map": "/FairSpeedType/static/js/runtime-main.b8ec3e50.js.map",
+    "static/js/2.d3960741.chunk.js": "/FairSpeedType/static/js/2.d3960741.chunk.js",
+    "static/js/2.d3960741.chunk.js.map": "/FairSpeedType/static/js/2.d3960741.chunk.js.map",
+    "index.html": "/FairSpeedType/index.html",
+    "static/css/main.de9d8e7b.chunk.css.map": "/FairSpeedType/static/css/main.de9d8e7b.chunk.css.map",
+    "static/js/2.d3960741.chunk.js.LICENSE.txt": "/FairSpeedType/static/js/2.d3960741.chunk.js.LICENSE.txt",
+    "static/media/lightning.3342d06a.png": "/FairSpeedType/static/media/lightning.3342d06a.png",
+    "static/media/type.9c9b9016.png": "/FairSpeedType/static/media/type.9c9b9016.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8ec3e50.js",
+    "static/js/2.d3960741.chunk.js",
+    "static/css/main.de9d8e7b.chunk.css",
+    "static/js/main.9b968f66.chunk.js"
+  ]
+}
