@@ -21,7 +21,7 @@ const DefaultState = {
 class App extends React.Component {
   state = DefaultState;
 
-  fetchNewParagraph = () => {
+   fetchNewParagraphFallback = () => {
     const data =
       SAMPLE_PARAGRAPHS[Math.floor(Math.rendom() * SAMPLE_PARAGRAPHS.length)];
 
@@ -35,7 +35,7 @@ class App extends React.Component {
     this.setState({ ...DefaultState, testinfo, selectedParagraph: data });
   };
 
-  fetchNewParagraphFallback = () => {
+  fetchNewParagraph = () => {
     fetch(ServiceUrl)
       .then((response) => response.text())
       .then((data) => {
