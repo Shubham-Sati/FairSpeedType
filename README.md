@@ -1,5 +1,5 @@
 # FairSpeedType
-This Application is used to for Typing Purpose. You can check your speed using this Application.
+This Application is used for Typing Purpose. You can check your speed using this Application.
 
 # Libraries used
 https://www.npmjs.com/package/typewriter-effect
