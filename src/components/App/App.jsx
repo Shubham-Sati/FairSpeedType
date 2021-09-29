@@ -23,7 +23,7 @@ class App extends React.Component {
 
    fetchNewParagraphFallback = () => {
     const data =
-      SAMPLE_PARAGRAPHS[Math.floor(Math.rendom() * SAMPLE_PARAGRAPHS.length)];
+      SAMPLE_PARAGRAPHS[Math.floor(Math.random() * SAMPLE_PARAGRAPHS.length)];
 
     const selectedParagraphArray = data.split("");
     const testinfo = selectedParagraphArray.map((selectedLetter) => {
