@@ -6,17 +6,6 @@ https://www.npmjs.com/package/typewriter-effect
 
 https://michalsnik.github.io/aos/
 
-# Include the fonts and aos in index.html
-
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script>
-  AOS.init();
-</script>
 
 # API used 
 API Used to fetch different paragraphs.
