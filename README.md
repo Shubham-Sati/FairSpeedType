@@ -7,6 +7,7 @@ https://www.npmjs.com/package/typewriter-effect
 https://michalsnik.github.io/aos/
 
 # Include the fonts and aos in index.html
+
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap" rel="stylesheet">
