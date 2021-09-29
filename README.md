@@ -1,7 +1,7 @@
 # FairSpeedType
 This Application is used for Typing Purpose. You can check your speed using this Application.
 
-# Checkout Application using this link => https://Shubham-Sati.github.com/FairSpeedType
+# Checkout Application using this link => https://Shubham-Sati.github.io/FairSpeedType
 
 # Libraries used
 https://www.npmjs.com/package/typewriter-effect
